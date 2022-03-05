@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.letter {
+  font-size: 3rem;
+  color: red;
+
+  &:hover {
+    color: blue;
+  }
+}
+
+li {
+  list-style: none;
+}

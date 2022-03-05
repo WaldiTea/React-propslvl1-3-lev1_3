@@ -1,0 +1,32 @@
+[
+  {
+    "iconBefore": "check.png",
+    "content": " Hit the gym ",
+    "iconAfter": "gym.png"
+  },
+  {
+    "iconBefore": "check.png",
+    "content": " Pay bills ",
+    "iconAfter": "bill.png"
+  },
+  {
+    "iconBefore": "doing.png",
+    "content": " Meet George ",
+    "iconAfter": "dance.png"
+  },
+  {
+    "iconBefore": "doing.png",
+    "content": " Buy eggs ",
+    "iconAfter": "eat.png"
+  },
+  {
+    "iconBefore": "no.png",
+    "content": " Read a book ",
+    "iconAfter": "book.png"
+  },
+  {
+    "iconBefore": "no.png",
+    "content": " Organize office ",
+    "iconAfter": "organize.png"
+  }
+]
