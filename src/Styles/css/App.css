@@ -19,4 +19,16 @@ body {
 li {
   list-style: none;
 }
+
+.checked {
+  text-decoration: line-through;
+}
+
+.doing {
+  background: #a8d6e2;
+}
+
+.no {
+  text-decoration: underline;
+}
 /*# sourceMappingURL=App.css.map */

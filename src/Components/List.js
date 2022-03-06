@@ -9,6 +9,7 @@ const List = () => {
           iconBefore = {item.iconBefore}
           content = {item.content}
           iconAfter = {item.iconAfter}
+          className = {item.className}
         />)}
       </ul>
     </main>

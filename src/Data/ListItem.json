@@ -2,31 +2,37 @@
   {
     "iconBefore": "check.png",
     "content": " Hit the gym ",
-    "iconAfter": "gym.png"
+    "iconAfter": "gym.png",
+    "className": "checked"
   },
   {
     "iconBefore": "check.png",
     "content": " Pay bills ",
-    "iconAfter": "bill.png"
+    "iconAfter": "bill.png",
+    "className": "checked"
   },
   {
     "iconBefore": "doing.png",
     "content": " Meet George ",
-    "iconAfter": "dance.png"
+    "iconAfter": "dance.png",
+    "className": "doing"
   },
   {
     "iconBefore": "doing.png",
     "content": " Buy eggs ",
-    "iconAfter": "eat.png"
+    "iconAfter": "eat.png",
+    "className": "doing"
   },
   {
     "iconBefore": "no.png",
     "content": " Read a book ",
-    "iconAfter": "book.png"
+    "iconAfter": "book.png",
+    "className": "no"
   },
   {
     "iconBefore": "no.png",
     "content": " Organize office ",
-    "iconAfter": "organize.png"
+    "iconAfter": "organize.png",
+    "className": "no"
   }
 ]
